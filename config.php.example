@@ -1,0 +1,18 @@
+<?php
+
+$config = array(
+
+        'api'   => array(
+                                        'url'           => 'https://YOUR.MAGENTO.DOMAIN/index.php/api/soap/?wsdl',
+                                        'username'      => 'username',
+                                        'password'      => 'password'
+                                        ),
+        'prosys'  => array(
+                                        'username' => 'PROSYS_USER',
+                                        'password' => 'PROSYS_PASS'
+                                        ),
+        'local_media'   => '//SERVER/media/magento/images/%s.jpg'
+
+);
+
+?>
