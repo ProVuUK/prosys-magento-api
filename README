@@ -5,3 +5,8 @@ Integrates ProVu database with Magento backend to automate running the web store
 
 
 Need to setup config.php with the correct information, see config.php.example
+
+---
+
+This code is provided as-is and is likely to be a very rough starting point.
+As memory serves, this used to work with Magento CE ~1.4.
